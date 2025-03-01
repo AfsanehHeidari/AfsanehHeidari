@@ -30,7 +30,7 @@ Currently, I’m studying **Information Technology at Oulu University of Applied
   https://awapgroup3front.onrender.com
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
 
-- 🛹 **[Skate Tracker App](https://github.com/yourproject)**  
+- 🛹 **[Skill Tracker App](https://github.com/yourproject)**  
   _Web app to log and track skateboarding sessions._  
   ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
 
