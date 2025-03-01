@@ -1,102 +1,87 @@
-👋 Hi, I’m Afsaneh Heidari
-💻 Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
+# 👋 Hi, I’m Afsaneh Heidari  
+💻 Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast  
 
-🚀 About Me
-I am a software engineer and computer science graduate passionate about programming, system design, and AI/ML applications. With a background in full-stack development, I have hands-on experience with React.js, Node.js, Python, C++, and cloud technologies.
+---
 
-Currently, I’m studying Information Technology at Oulu University of Applied Sciences and constantly enhancing my skills in scalable applications, databases, and DevOps.
+## 🚀 About Me  
+I am a **software engineer** and **computer science graduate** passionate about **programming, system design, and AI/ML applications**.  
+With a background in **full-stack development**, I have hands-on experience with **React.js, Node.js, Python, C++, and cloud technologies**.  
 
-## 🛠️ Skills
+Currently, I’m studying **Information Technology at Oulu University of Applied Sciences** and constantly enhancing my skills in **scalable applications, databases, and DevOps**.  
 
-### Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+---
 
-### Frontend Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)  
+## 🛠️ Skills  
 
-### Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![API Development](https://img.shields.io/badge/API-02569B?style=flat&logo=api&logoColor=white)  
+### **📌 Tech Stack Overview**  
 
-### Databases & Data Handling  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+| Languages | Frontend | Backend | Database | Cloud & DevOps | AI/ML |
+|-----------|---------|---------|---------|-------------|------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn) |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) | ![API](https://img.shields.io/badge/API-02569B?style=flat&logo=api&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
 
-### Mobile Development  
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+---
 
-### Cloud & DevOps  
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![Virtualization](https://img.shields.io/badge/Virtualization-FF5733?style=flat&logo=cloud&logoColor=white)  
+## 🚀 Featured Projects  
+### 🏆 Some of My Best Work  
+- 🎬 **[Movie Streaming App](https://github.com/yourproject)**  
+  _A web app for streaming movies with user authentication._  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
 
-### AI & Machine Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+- 🛹 **[Skate Tracker App](https://github.com/yourproject)**  
+  _Web app to log and track skateboarding sessions._  
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)  
 
-### Version Control & Workflow  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)  
+- 🐾 **[Pet Adoption Site](https://github.com/yourproject)**  
+  _Responsive website for showcasing adoptable pets._  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)  
 
-### Testing & Automation  
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)  
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)  
+---
 
-### Agile & Development Methodologies  
-![Agile](https://img.shields.io/badge/Agile-02967D?style=flat&logo=agile&logoColor=white)  
-![Scrum](https://img.shields.io/badge/Scrum-00ADD8?style=flat&logo=scrum&logoColor=white)  
-![Kanban](https://img.shields.io/badge/Kanban-FF9800?style=flat&logo=kanban&logoColor=white)  
+## 🎯 Goals for 2025  
+✅ Contribute to **5+ open-source projects**  
+🚀 Build an **AI-powered SaaS application**  
+🔥 Gain certification in **Azure DevOps**  
 
+---
 
-💼 Projects
-📽️ Movie Streaming App – Web app for streaming movies with user authentication.
-🐾 Pet Adoption Site – Responsive website for showcasing adoptable pets.
-🔐 Mobile Escape Room Game – Mobile app for solving puzzles in an escape room setting.
-🌐 Portfolio Website – Personal site built with React.js to showcase projects.
-🛹 Skate Tracker App – Web app to log and track skateboarding sessions.
-🍲 Recipe App – Mobile app fetching recipes via APIs based on ingredients.
+## 👀 Interests & Learning  
+🔹 **Web & Mobile Development** (_React.js, React Native, Node.js, Android Studio_)  
+🔹 **Cloud & DevOps** (_Azure, Linux, Docker_)  
+🔹 **AI & Machine Learning** (_TensorFlow, OpenCV, Scikit-Learn_)  
+🔹 **Big Data & Data Analysis** (_NumPy, Pandas, SQL, MongoDB_)  
+🔹 **Cybersecurity & System Design**  
 
-👀 I’m Interested In
-🔹 Web & Mobile Development (React.js, React Native, Node.js, Android Studio)
-🔹 Cloud & DevOps (Azure, Linux, Docker)
-🔹 AI & Machine Learning (TensorFlow, OpenCV, Scikit-Learn)
-🔹 Big Data & Data Analysis (NumPy, Pandas, SQL, MongoDB)
-🔹 Cybersecurity & System Design
+🌱 **Currently Learning**  
+🚀 **Advanced Cloud Solutions**  
+📊 **Machine Learning & AI-based Development**  
+🔧 **Optimizing Software Performance & Scalability**  
 
-🌱 I’m Currently Learning
-🚀 Advanced Cloud Solutions
-📊 Machine Learning & AI-based Development
-🔧 Optimizing Software Performance & Scalability
+💞️ **Looking to Collaborate On**  
+🎯 Open-source projects in **AI, full-stack development, and cloud computing**  
+🤝 Innovative tech solutions for **real-world challenges**  
 
-💞️ I’m Looking to Collaborate On
-🎯 Open-source projects in AI, full-stack development, and cloud computing
-🤝 Innovative tech solutions for real-world challenges
+---
 
-📫 How to Reach Me
-📧 Email: afsaneh.heidari20@gmail.com
-💼 LinkedIn: Afsaneh Heidari
-📂 GitHub: AfsanehHeidari
+## 📊 GitHub Stats  
+![Afsaneh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfsanehHeidari&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AfsanehHeidari&layout=compact&theme=dark)  
 
-⚡ Fun Fact
-Did you know? The first-ever computer programmer was Ada Lovelace, way back in the 1800s! Innovation has no limits, and neither does curiosity.
+---
+
+## 📫 How to Reach Me  
+📧 **Email**: afsaneh.heidari20@gmail.com  
+💼 **LinkedIn**: [Afsaneh Heidari](https://www.linkedin.com/in/yourprofile/)  
+📂 **GitHub**: [AfsanehHeidari](https://github.com/AfsanehHeidari)  
+
+---
+
+## ⚡ Fun Fact  
+💡 Did you know? The term "**bug**" in programming comes from an actual **moth** stuck in a computer!  
+🦋 The first-ever recorded software bug was a real insect found in a **Mark II** computer in **1947**.  
+
+---
+
+🔥 **Thank you for visiting my profile!**  
+Feel free to **star** ⭐ any repositories that interest you. Let's connect and collaborate! 🤝
