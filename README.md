@@ -1,3 +1,11 @@
+👋 Hi, I’m Afsaneh Heidari
+💻 Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
+
+🚀 About Me
+I am a software engineer and computer science graduate passionate about programming, system design, and AI/ML applications. With a background in full-stack development, I have hands-on experience with React.js, Node.js, Python, C++, and cloud technologies.
+
+Currently, I’m studying Information Technology at Oulu University of Applied Sciences and constantly enhancing my skills in scalable applications, databases, and DevOps.
+
 ## 🛠️ Skills
 
 ### Languages  
@@ -59,3 +67,36 @@
 ![Agile](https://img.shields.io/badge/Agile-02967D?style=flat&logo=agile&logoColor=white)  
 ![Scrum](https://img.shields.io/badge/Scrum-00ADD8?style=flat&logo=scrum&logoColor=white)  
 ![Kanban](https://img.shields.io/badge/Kanban-FF9800?style=flat&logo=kanban&logoColor=white)  
+
+
+💼 Projects
+📽️ Movie Streaming App – Web app for streaming movies with user authentication.
+🐾 Pet Adoption Site – Responsive website for showcasing adoptable pets.
+🔐 Mobile Escape Room Game – Mobile app for solving puzzles in an escape room setting.
+🌐 Portfolio Website – Personal site built with React.js to showcase projects.
+🛹 Skate Tracker App – Web app to log and track skateboarding sessions.
+🍲 Recipe App – Mobile app fetching recipes via APIs based on ingredients.
+
+👀 I’m Interested In
+🔹 Web & Mobile Development (React.js, React Native, Node.js, Android Studio)
+🔹 Cloud & DevOps (Azure, Linux, Docker)
+🔹 AI & Machine Learning (TensorFlow, OpenCV, Scikit-Learn)
+🔹 Big Data & Data Analysis (NumPy, Pandas, SQL, MongoDB)
+🔹 Cybersecurity & System Design
+
+🌱 I’m Currently Learning
+🚀 Advanced Cloud Solutions
+📊 Machine Learning & AI-based Development
+🔧 Optimizing Software Performance & Scalability
+
+💞️ I’m Looking to Collaborate On
+🎯 Open-source projects in AI, full-stack development, and cloud computing
+🤝 Innovative tech solutions for real-world challenges
+
+📫 How to Reach Me
+📧 Email: afsaneh.heidari20@gmail.com
+💼 LinkedIn: Afsaneh Heidari
+📂 GitHub: AfsanehHeidari
+
+⚡ Fun Fact
+Did you know? The first-ever computer programmer was Ada Lovelace, way back in the 1800s! Innovation has no limits, and neither does curiosity.
