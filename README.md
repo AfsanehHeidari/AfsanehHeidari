@@ -26,8 +26,8 @@ Currently, I’m studying **Information Technology at Oulu University of Applied
 ## 🚀 Featured Projects  
 ### 🏆 Some of My Best Work  
 - 🎬 **[Movie Streaming App](https://github.com/yourproject)**  
-  _A web app for streaming movies with user authentication._
-   _https://awapgroup3front.onrender.com_
+  _A web app for streaming movies with user authentication._<br>
+  https://awapgroup3front.onrender.com
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)  
 
 - 🛹 **[Skate Tracker App](https://github.com/yourproject)**  
