@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Afsaneh Heidari  
-💻 Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast  
+💻 Software & Test Engineer | AI & Machine Learning Enthusiast  
 
 ---
 
 ## 🚀 About Me  
-I am a **software engineer** and **computer science graduate** passionate about **programming, system design, and AI/ML applications**.  
+I am a **software & test engineer** passionate about **programming, system design, and AI/ML applications**.  
 With a background in **full-stack development**, I have hands-on experience with **React.js, Node.js, Python, C++, and cloud technologies**.  
 
 Currently, I’m studying **Information Technology at Oulu University of Applied Sciences** and constantly enhancing my skills in **scalable applications, databases, and DevOps**.  
